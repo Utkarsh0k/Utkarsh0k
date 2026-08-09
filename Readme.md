@@ -99,7 +99,7 @@ Used primarily for computer-vision projects and database learning.
 
 A few projects I've worked on while learning.
 
-### `01` — [Core](https://github.com/YOUR_USERNAME/mini-vcs)
+### `01` — [Core](https://github.com/Utkarsh0k/mini-VCS)
 
 **Mini Version Control System**
 
@@ -111,19 +111,7 @@ Implemented repository structure, file handling, commits, and SHA-256 based hash
 
 ---
 
-### `02` — [Crowd Vision](https://github.com/YOUR_USERNAME/crowd-vision)
-
-**Computer Vision Project**
-
-A project exploring crowd and object detection using computer-vision and machine-learning techniques.
-
-Focused on image processing and understanding detection pipelines.
-
-`Python` · `OpenCV` · `TensorFlow` · `YOLO`
-
----
-
-### `03` — [ReNest](https://github.com/YOUR_USERNAME/renest)
+### `02` — [ReNest](https://github.com/Utkarsh0k/ReNest)
 
 **Student Marketplace**
 
